@@ -512,6 +512,7 @@
     <!-- Whether device ignores the RSSNR signal implementation -->
     <bool name="config_ignoreRssnrSignalLevel">true</bool>
 
+
     <!-- Minimum time in milliseconds between power button presses so it will be considered
          as a camera launch. To avoid false triggers.
     -->
@@ -538,4 +539,8 @@
 
     <!-- Whether or not swipe up gesture's opt-in setting is available on this device -->
     <bool name="config_swipe_up_gesture_setting_available">true</bool>
+
+    <!-- Whether the device has outdated qti-telephony-common.jar -->
+    <bool name="config_oldQtiTelephony">false</bool>
+
 </resources>
