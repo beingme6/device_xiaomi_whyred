@@ -1,3 +1,5 @@
+# Copyright (C) 2018 The Superior OS Project
+-----------------------------------------
 
 The Redmi Note 5 (codenamed _"whyred"_) are high-end mid-range smartphones from Xiaomi.
 

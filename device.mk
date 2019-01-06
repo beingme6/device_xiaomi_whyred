@@ -1,5 +1,6 @@
 # 
 # Copyright (C) 2018 The Mokee Project
+# Copyright (C) 2018 The Superior OS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -142,8 +143,7 @@ PRODUCT_PACKAGES += \
     android.frameworks.displayservice@1.0_32 \
     android.hardware.camera.provider@2.4-impl:32 \
     android.hardware.camera.provider@2.4-service \
-    libxml2 \
-    Snap
+    libxml2
 
 # CNE
 PRODUCT_PACKAGES += \
