@@ -25,9 +25,10 @@ $(call inherit-product, device/xiaomi/whyred/device.mk)
 
 # Inherit some common Superior stuff.
 TARGET_BOOT_ANIMATION_RES := 1080
-$(call inherit-product, vendor/superior/config/common.mk)
+$(call inherit-product, vendor/stag/main.mk)
+TARGET_GAPPS_ARCH := arm64
 
-PRODUCT_NAME := superior_whyred
+PRODUCT_NAME := stag_whyred
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := whyred
 PRODUCT_MANUFACTURER := Xiaomi

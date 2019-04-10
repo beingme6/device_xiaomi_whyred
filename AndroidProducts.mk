@@ -15,4 +15,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_whyred.mk
+    $(LOCAL_DIR)/stag_whyred.mk
